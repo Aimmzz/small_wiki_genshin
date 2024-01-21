@@ -182,4 +182,20 @@ var listGenshin = [
     party:
         'Cyno (Main Dps), Yae Miko (Sub Dps), Kazuha (Support), Baizhu (Support)',
   ),
+  CharGenshin(
+    imageChar: 'images/baizhu.webp',
+    name: 'Baizhu 2',
+    description:
+        'Baizhu (bahasa Mandarin: 白术 Báizhú) adalah karakter Dendro yang dapat dimainkan di Genshin Impact. Pemilik Apotek Bubu dan wali Qiqi, Dokter Baizhu adalah ahli seni pengobatan dan penerima kontrak generasi terbaru dengan ular putih bernama Changsheng. Dia berusaha mencapai keabadian untuk memastikan bahwa dia adalah orang terakhir yang akan menanggung kontraknya, menyelamatkan calon pewaris dan bahkan Changsheng sendiri dari biaya yang timbul dari kekuatannya.',
+    imageWeapon: 'images/jadefalls_splendor.webp',
+    nameWeapon: "Jadefall's Splendor",
+    descWeapon:
+        'Selama 3 detik setelah menggunakan Elemental Burst atau membuat perisai, karakter yang dilengkapi bisa mendapatkan efek Primordial Jade Regalia: Memulihkan 4.5~6.5 Energi setiap 2.5 detik, dan mendapatkan 0.3~1.1% Bonus Elemental DMG untuk Jenis Elemen yang sesuai untuk setiap 1.000 HP Maks yang dimiliki, hingga 12~44%. Primordial Jade Regalia akan tetap berlaku meskipun karakter yang dilengkapi tidak berada di lapangan.',
+    imageArtefact: 'images/scholar_of_vines.webp',
+    nameArtefact: 'Deepwood Memories',
+    descArtefact:
+        '2 buah: Bonus Dendro DMG +15%.; 4 Buah: Setelah Skill Elemental atau Burst mengenai lawan, RES Dendro target akan berkurang 30% selama 8 detik. Efek ini dapat dipicu meskipun karakter yang melengkapi tidak berada di lapangan.',
+    party:
+        'Cyno (Main Dps), Yae Miko (Sub Dps), Kazuha (Support), Baizhu (Support)',
+  ),
 ];
